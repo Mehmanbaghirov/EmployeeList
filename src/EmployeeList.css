@@ -1,0 +1,26 @@
+.employee-list-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+input,
+select {
+  margin-right: 10px;
+}
+
+.employee-list {
+  list-style: none;
+  padding: 0;
+}
+
+.employee-item {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
